@@ -454,5 +454,11 @@ export default [
         summary: "Explore your favorite genres and find new series to watch",
         imageUrl: "https://animeversum.netlify.app/media/animeversumpng.webp",
         url: "https://animeversum.netlify.app"
+    },
+    {
+        title: "Anime Zeon",
+        summary: "Anime Zone is a comprehensive anime and manga library offering detailed information, latest news, and engaging discussions.",
+        imageUrl: "https://raw.githubusercontent.com/IsmailIbrahim5/AnimeZone/refs/heads/main/readme_resources/feature.png",
+        url: "https://play.google.com/store/apps/details?id=com.glitch.animezone"
     }
 ]
